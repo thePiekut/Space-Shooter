@@ -1,0 +1,3 @@
+/Users/piekut/Documents/PJATK/SEM2/C++/PROJEKT/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate.dir
+/Users/piekut/Documents/PJATK/SEM2/C++/PROJEKT/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/edit_cache.dir
+/Users/piekut/Documents/PJATK/SEM2/C++/PROJEKT/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/rebuild_cache.dir
